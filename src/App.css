@@ -1,5 +1,4 @@
 .App {
-  text-align: center;
 }
 
 .App-logo {
@@ -35,4 +34,7 @@
   to {
     transform: rotate(360deg);
   }
+}
+.area-food {
+  flex-wrap: wrap;
 }
